@@ -96,3 +96,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter board to Logic-level-converter-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi easyC adapter/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main d725c05] Updating open source files.
+ 1 file changed, 29 insertions(+)
+https://github.com/SolderedElectronics/Raspberry-Pi-easyC-adapter-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter board/OUTPUTS/V1.0.0: all files are present, commiting...
+Logic-level-converter-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter board to Logic-level-converter-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/Raspberry Pi easyC adapter/.git/
